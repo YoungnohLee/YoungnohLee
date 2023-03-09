@@ -1,4 +1,4 @@
-👋Hi, I'm senior student majoring Statistics at Korea University. 
+👋Hi, I'm undergraduate student majoring Statistics at Korea University. 
 
 My value is to do whatever I feel fun, gain various experiences, and do not be stressed from doing nothing.
 
