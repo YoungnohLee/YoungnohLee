@@ -44,7 +44,7 @@ BiLSTM을 이용한 교내 커뮤니티 게시글 조회수 분류/예측(2022.1
 
 **Data Science** : ML, NLP, Generative Models, Unsupervised Learning, Data Engineering
 
-**Econometrics** : Treatment Effect, Panel Data, Time Series Analysis, Causal Inference
+**Econometrics** : Treatment Effect, Panel Data/Time Series Analysis, Causal Inference
 
 **Statistics** : Sampling, Linear Methods, Regression, Bayesian Inference
 
