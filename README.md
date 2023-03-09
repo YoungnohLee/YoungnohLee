@@ -1,3 +1,17 @@
+👋Hi, I'm senior student majoring Statistics at Korea University. 
+
+My value is to do whatever I feel fun, gain various experiences, and do not be stressed from doing nothing.
+
+I have a passion for developing myself, and learning in order to apply for a real-world problem.
+
+I want to solve real-world problems with data science and statistical methods, especially at fields of economy, law, and media.
+
+Hope my repository draws your attention. Thank you :)
+
+
+
+
+
 ## Major🎓
 
 BA in Statistics, Korea University
@@ -13,7 +27,7 @@ Python, R, MATLAB, Stata, GAUSS
 
 ## Projects📚
 
-형사 판례에 기반한 법륜 자문 로보어드바이저(예정)
+형사 사건 법륜 자문 로보어드바이저(예정)
 <br>
 기술적분석과 보조지표 시계열화를 통한 딥러닝 기반 주식 매매(예측) 자동화 서비스(2023.03~)
 <br>
