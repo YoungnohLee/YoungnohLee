@@ -1,16 +1,40 @@
+## Major🎓
+
+BA in Statistics, Korea University
+<br>
+BA in Public Governence & Leadership (Law, Economy), Korea University
+
+Hanyoung Foreign Language Highschool (French)
 
 
-<div align = "center">
-<h3>💻 Tech Stack 💻</h3>
- 
-<br/>
+## Tech Stack🔧
 
-<img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> 
+Python, R, MATLAB, Stata, GAUSS
 
-<img src="https://img.shields.io/badge/MATLAB-FC6D26?style=flat-square&logo=matlab&logoColor=white"/>
-<img src="https://img.shields.io/badge/Stata-66CCFF?style=flat-square&logo=Stata&logoColor=white"/>
-<img src="https://img.shields.io/badge/GAUSS-41454A?style=flat-square&logo=GAUSS&logoColor=white"/>
+## Projects📚
+
+형사 판례에 기반한 법륜 자문 로보어드바이저(예정)
+<br>
+기술적분석과 보조지표 시계열화를 통한 딥러닝 기반 주식 매매(예측) 자동화 서비스(2023.03~)
+<br>
+자연어 처리를 통한 언론의 경향성 분석(2023.03~)
 
 
-</div>
+keyBERT, LSTM-CRF 키워드 추출과 문맥고려 임베딩을 통한 향수 추천 챗봇(2023.02)
+<br>
+장기 천연가스 수요예측 모델(2022.12)
+<br>
+BiLSTM을 이용한 교내 커뮤니티 게시글 조회수 분류/예측(2022.12)
+
+## Field of Interest🔍
+
+**Data Science** : ML, NLP, Generative Models, Unsupervised Learning, Data Engineering
+
+**Econometrics** : Treatment Effect, Panel Data, Time Series Analysis, Causal Inference
+
+**Statistics** : Sampling, Linear Methods, Regression, Bayesian Inference
+
+**Law** : AI and Legal Analytics
+
+**Economy** : Macro-economics, Financial Economics, Law and Economy
+
